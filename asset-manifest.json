@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Eglantinenf/TodoList-React.js-Tailwind.git/static/css/main.de6a07e0.css",
-    "main.js": "/Eglantinenf/TodoList-React.js-Tailwind.git/static/js/main.5bcdc85a.js",
-    "index.html": "/Eglantinenf/TodoList-React.js-Tailwind.git/index.html",
-    "main.de6a07e0.css.map": "/Eglantinenf/TodoList-React.js-Tailwind.git/static/css/main.de6a07e0.css.map",
-    "main.5bcdc85a.js.map": "/Eglantinenf/TodoList-React.js-Tailwind.git/static/js/main.5bcdc85a.js.map"
+    "main.css": "/TodoList-React.js-Tailwind/static/css/main.de6a07e0.css",
+    "main.js": "/TodoList-React.js-Tailwind/static/js/main.5bcdc85a.js",
+    "index.html": "/TodoList-React.js-Tailwind/index.html",
+    "main.de6a07e0.css.map": "/TodoList-React.js-Tailwind/static/css/main.de6a07e0.css.map",
+    "main.5bcdc85a.js.map": "/TodoList-React.js-Tailwind/static/js/main.5bcdc85a.js.map"
   },
   "entrypoints": [
     "static/css/main.de6a07e0.css",
