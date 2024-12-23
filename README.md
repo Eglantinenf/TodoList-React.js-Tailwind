@@ -8,6 +8,7 @@ Welcome to my TodoList React app, built with **React.js** and styled with **Tail
 - **Sorting**: Sort your tasks by name or creation date.
 - **Undo Delete**: If you accidentally delete a task, you can easily undo the action.
 - **Fun UI**: The app has an interactive and user-friendly interface powered by **Tailwind CSS**.
+- **LocalStorage**:your task will stay there even when you reload the page or close it.
 
 ## Demo
 
